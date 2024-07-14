@@ -1,9 +1,9 @@
 # Flappy Birb
 
-### Goals
-- [x] Physics
-- [] Pipe generation
-- [] Collisions
-- [] Sprites
-- [] Score
-- [] SFX
+### Steps
+- [x] Bird physics
+- [ ] Pipe generation
+- [ ] Collisions
+- [ ] Sprites
+- [ ] Score
+- [ ] SFX
