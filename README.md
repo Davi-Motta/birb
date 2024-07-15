@@ -2,7 +2,7 @@
 
 ### Steps
 - [x] Bird physics
-- [ ] Pipe generation
+- [x] Pipe generation
 - [ ] Collisions
 - [ ] Sprites
 - [ ] Score
